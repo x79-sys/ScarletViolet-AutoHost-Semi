@@ -1,4 +1,3 @@
-read this
 code should be pretty self explanitory
 you can edit timings if you want 
 the main ones i made editable are variables
