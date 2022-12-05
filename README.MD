@@ -7,3 +7,4 @@ if you wanna optimize just edit waht u want
 i'm not responsible if you get banend or smtn use at own risk
 
 support discodr
+https://discord.gg/FVvDc9KJ67
